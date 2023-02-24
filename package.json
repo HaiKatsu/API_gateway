@@ -1,0 +1,23 @@
+{
+  "name": "api_gateway",
+  "version": "1.0.0",
+  "description": "On va bien s'amuser tous ensemble et j'espère vraiment que vous pourrez apprendre quelque chose de nous. 👀",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaiKatsu/API_gateway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaiKatsu/API_gateway/issues"
+  },
+  "homepage": "https://github.com/HaiKatsu/API_gateway#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
